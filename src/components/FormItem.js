@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 const numberOfDay = 0;
 const timeNow = 0;
+const time = 0;
+const checkedRise = true;
 export default function FormItem({
   typeRise,
   timeRise,
